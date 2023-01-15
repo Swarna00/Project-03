@@ -1,0 +1,49 @@
+button.btn1 {
+    width: 1337px;
+    text-align: inherit;
+    height: 44px;
+}
+button.btn2 {
+    width: 1337px;
+    text-align: inherit;
+    height: 44px;
+}
+button.btn3 {
+    width: 1337px;
+    text-align: inherit;
+    height: 44px;}
+    .btnOne {
+    position: relative;
+}
+.btnThree {
+    position: relative;
+    /* margin-top: -4px; */
+}
+.text_sec3 {
+    position: absolute;
+    width: 885px;
+    margin-top: -17px;
+}
+.text_sec {
+    /*position: absolute;*/
+    width: 885px;
+    }
+    .text_sec2 {
+    /*position: absolute;*/
+    width: 885px;
+    }
+button.btn1 {
+    width: 50;
+    width: 1091px;
+}
+button.btn2 {
+    width: 50;
+    width: 1091px;
+}
+button.btn3 {
+    width: 50;
+    width: 1091px;
+}
+.btn_sec {
+    margin-left: 137px;
+}
